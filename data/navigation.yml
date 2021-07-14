@@ -1,9 +1,9 @@
 #main links
 
 main:
-  - title: "Home"
+  - title: "Main"
     url: https://k65860.github.io
   - title: "About"
     url: /about/
-  - title: "블로그 만들기"
+  - title: "Post"
     url: /MakingBlog/
