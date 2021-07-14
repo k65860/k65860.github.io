@@ -1,0 +1,7 @@
+main:
+ - title: "Main"
+ ...
+ - title: "Github"
+   url: /categories/
+ - title: "Tags"
+   url: /tags/
